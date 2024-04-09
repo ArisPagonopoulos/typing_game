@@ -6,8 +6,6 @@ from typeit import typegame
 import os
 from bs4 import BeautifulSoup
 
-#os.chdir("c:\\users\\aris\\mypythonscripts")
-#parser=htmlparser.HTMLParser()
 res=requests.get("https://www.azquotes.com/")
 text=res.text
 #finding all the authors	
