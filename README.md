@@ -1,4 +1,5 @@
 A typing game with quotes from various authors.
+It webscraps the site azquotes for quotes and let the user exercise his typing skills with them.
 
 Running the program with the name of the author as argument:
 <p align="center">
