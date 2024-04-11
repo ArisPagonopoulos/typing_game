@@ -5,7 +5,9 @@ Running the program with the name of the author as argument:
   <img src="https://github.com/ArisPagonopoulos/typing_game/blob/main/demo1.gif"/>
 </p>
 
-Typing the name of the author:
+
+
+Running the program with no arguments promts the user to type the name of the author:
 <p align="center">
   <img src="https://github.com/ArisPagonopoulos/typing_game/blob/main/demo2.gif"/>
 </p>
